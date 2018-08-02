@@ -16,8 +16,9 @@ allprojects {
 ### 第 2 步、在应用的 build.gradle 中添加：
 ```
 dependencies {
-	        compile 'com.github.baixxx:VerticalMarqueeView:v1.3'
+	        implementation 'com.github.baixxx:DragToDeleteView:master'
 	}
  ```
  
-[![](https://jitpack.io/v/baixxx/VerticalMarqueeView.svg)](https://jitpack.io/#baixxx/VerticalMarqueeView)
+ [![](https://jitpack.io/v/baixxx/DragToDeleteView.svg)](https://jitpack.io/#baixxx/DragToDeleteView)
+
